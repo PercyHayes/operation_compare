@@ -1,0 +1,12 @@
+(SAIFILE
+(SAIFVERSION "2.0")
+(DIRECTION "backward")
+(DESIGN )
+(DATE "Sat Dec 13 17:55:05 2025")
+(VENDOR "Synopsys, Inc.")
+(PROGRAM_NAME "fsdb2saif")
+(VERSION "Verdi_T-2022.06")
+(DIVIDER / )
+(TIMESCALE 1 ps)
+(DURATION 2087000)
+)

@@ -1,0 +1,83 @@
+ 
+****************************************
+Report : qor
+Design : spike_array
+Version: T-2022.03-SP2
+Date   : Sat Dec 13 23:18:41 2025
+****************************************
+
+
+  Timing Path Group 'clk'
+  -----------------------------------
+  Levels of Logic:              15.00
+  Critical Path Length:          0.64
+  Critical Path Slack:           0.24
+  Critical Path Clk Period:      1.00
+  Total Negative Slack:          0.00
+  No. of Violating Paths:        0.00
+  Worst Hold Violation:         -0.06
+  Total Hold Violation:         -2.04
+  No. of Hold Violations:      382.00
+  -----------------------------------
+
+
+  Cell Count
+  -----------------------------------
+  Hierarchical Cell Count:        127
+  Hierarchical Port Count:       3686
+  Leaf Cell Count:              12062
+  Buf/Inv Cell Count:             805
+  Buf Cell Count:                   0
+  Inv Cell Count:                 805
+  CT Buf/Inv Cell Count:            0
+  Combinational Cell Count:      9757
+  Sequential Cell Count:         2305
+  Macro Count:                      0
+  -----------------------------------
+
+
+  Area
+  -----------------------------------
+  Combinational Area:    13501.655803
+  Noncombinational Area:  5827.583958
+  Buf/Inv Area:            290.135996
+  Total Buffer Area:             0.00
+  Total Inverter Area:         290.14
+  Macro/Black Box Area:      0.000000
+  Net Area:                  0.000000
+  -----------------------------------
+  Cell Area:             19329.239761
+  Design Area:           19329.239761
+
+
+  Design Rules
+  -----------------------------------
+  Total Number of Nets:         15637
+  Nets With Violations:             0
+  Max Trans Violations:             0
+  Max Cap Violations:               0
+  -----------------------------------
+
+
+  Hostname: localhost.localdomain
+
+  Compile CPU Statistics
+  -----------------------------------------
+  Resource Sharing:                   10.46
+  Logic Optimization:                  6.96
+  Mapping Optimization:                5.93
+  -----------------------------------------
+  Overall Compile Time:               33.13
+  Overall Compile Wall Clock Time:    33.57
+
+  --------------------------------------------------------------------
+
+  Design  WNS: 0.00  TNS: 0.00  Number of Violating Paths: 0
+
+
+  Design (Hold)  WNS: 0.06  TNS: 2.04  Number of Violating Paths: 382
+
+  --------------------------------------------------------------------
+
+
+1

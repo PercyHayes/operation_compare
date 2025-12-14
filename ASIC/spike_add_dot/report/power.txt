@@ -1,0 +1,316 @@
+Loading db file '/home/jjt/labs/spike_add_dot/library/tcbn28hpcplusbwp12t40p140ssg0p9v125c.db'
+Information: Propagating switching activity (low effort zero delay simulation). (PWR-6)
+Warning: Design has unannotated primary inputs. (PWR-414)
+Warning: Design has unannotated sequential cell outputs. (PWR-415)
+ 
+****************************************
+Report : power
+        -analysis_effort low
+Design : spike_array
+Version: T-2022.03-SP2
+Date   : Sat Dec 13 23:18:41 2025
+****************************************
+
+
+Library(s) Used:
+
+    tcbn28hpcplusbwp12t40p140ssg0p9v125c (File: /home/jjt/labs/spike_add_dot/library/tcbn28hpcplusbwp12t40p140ssg0p9v125c.db)
+
+
+Operating Conditions: ssg0p9v125c   Library: tcbn28hpcplusbwp12t40p140ssg0p9v125c
+Wire Load Model Mode: segmented
+
+Design        Wire Load Model            Library
+------------------------------------------------
+spike_array            ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_256
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_257
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_258
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_259
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_260
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_261
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_262
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_263
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_264
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_265
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_266
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_267
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_268
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_269
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_270
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_271
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_272
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_273
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_274
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_275
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_276
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_277
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_278
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_279
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_280
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_281
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_282
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_283
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_284
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_285
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_286
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_287
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_288
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_289
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_290
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_291
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_292
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_293
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_294
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_295
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_296
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_297
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_298
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_299
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_300
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_301
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_302
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_303
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_304
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_305
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_306
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_307
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_308
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_309
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_310
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_313
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_316
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_319
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_322
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_325
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_328
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_331
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_334
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_337
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_340
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_343
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_346
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_349
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_352
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_355
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_358
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_359
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_360
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_361
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_364
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_367
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_370
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_373
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_376
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_379
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_382
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_385
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_388
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_391
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_394
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_397
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_400
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_403
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_406
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_409
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_412
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_415
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_418
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_421
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_424
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_427
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_430
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_433
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_436
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_439
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_442
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_445
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_448
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_451
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_454
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_457
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_458
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_459
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_460
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_463
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_466
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_469
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_472
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_475
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_478
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_481
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_484
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_487
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_490
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_493
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_496
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_499
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_502
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_505
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_508
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_509
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+spike_array_DW01_add_510
+                       ZeroWireload      tcbn28hpcplusbwp12t40p140ssg0p9v125c
+
+
+Global Operating Voltage = 0.9  
+Power-specific unit information :
+    Voltage Units = 1V
+    Capacitance Units = 1.000000pf
+    Time Units = 1ns
+    Dynamic Power Units = 1mW    (derived from V,C,T units)
+    Leakage Power Units = 1nW
+
+
+Attributes
+----------
+i - Including register clock pin internal power
+
+
+  Cell Internal Power  =  17.1086 mW   (86%)
+  Net Switching Power  =   2.7363 mW   (14%)
+                         ---------
+Total Dynamic Power    =  19.8449 mW  (100%)
+
+Cell Leakage Power     = 425.3133 uW
+
+
+                 Internal         Switching           Leakage            Total
+Power Group      Power            Power               Power              Power   (   %    )  Attrs
+--------------------------------------------------------------------------------------------------
+io_pad             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+memory             0.0000            0.0000            0.0000            0.0000  (   0.00%)
+black_box          0.0000            0.0000            0.0000            0.0000  (   0.00%)
+clock_network      9.8779            0.0000            0.0000            0.0000  (   0.00%)  i
+register           3.3968            0.6284        1.6891e+05           14.0720  (  69.42%)
+sequential         0.0000            0.0000            0.0000            0.0000  (   0.00%)
+combinational      3.8339            2.1079        2.5641e+05            6.1982  (  30.58%)
+--------------------------------------------------------------------------------------------------
+Total             17.1086 mW         2.7363 mW     4.2531e+05 nW        20.2702 mW
+1

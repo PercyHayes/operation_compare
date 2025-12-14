@@ -1,0 +1,31 @@
+ 
+****************************************
+Report : area
+Design : naive_dot
+Version: T-2022.03-SP2
+Date   : Sat Dec 13 23:03:16 2025
+****************************************
+
+Information: Updating design information... (UID-85)
+Library(s) Used:
+
+    tcbn28hpcplusbwp12t40p140ssg0p9v125c (File: /home/jjt/labs/naive_dot/library/tcbn28hpcplusbwp12t40p140ssg0p9v125c.db)
+
+Number of ports:                         7263
+Number of nets:                         20305
+Number of cells:                        11663
+Number of combinational cells:          10568
+Number of sequential cells:               840
+Number of macros/black boxes:               0
+Number of buf/inv:                       2211
+Number of references:                     265
+
+Combinational area:              11593.007859
+Buf/Inv area:                      762.719990
+Noncombinational area:            2157.623984
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:                 13750.631842
+Total area:                 undefined
+1

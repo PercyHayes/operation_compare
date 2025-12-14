@@ -1,0 +1,32 @@
+ 
+****************************************
+Report : area
+Design : spike_array
+Version: T-2022.03-SP2
+Date   : Sat Dec 13 23:18:37 2025
+****************************************
+
+Information: Updating design information... (UID-85)
+Warning: Design 'spike_array' contains 1 high-fanout nets. A fanout number of 1000 will be used for delay calculations involving these nets. (TIM-134)
+Library(s) Used:
+
+    tcbn28hpcplusbwp12t40p140ssg0p9v125c (File: /home/jjt/labs/spike_add_dot/library/tcbn28hpcplusbwp12t40p140ssg0p9v125c.db)
+
+Number of ports:                         4730
+Number of nets:                         19061
+Number of cells:                        12189
+Number of combinational cells:           9757
+Number of sequential cells:              2305
+Number of macros/black boxes:               0
+Number of buf/inv:                        805
+Number of references:                     145
+
+Combinational area:              13501.655803
+Buf/Inv area:                      290.135996
+Noncombinational area:            5827.583958
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (Wire load has zero net area)
+
+Total cell area:                 19329.239761
+Total area:                 undefined
+1
